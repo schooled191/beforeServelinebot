@@ -1,0 +1,6 @@
+B-SortRect: 4	7	705	1144  | No.of Rect: 284
+B-UKRect: 5	13	711	1222	| No.of Rect: 132	|Have: 0
+R-SortRect: 5	86	646	1138  | No.of Rect: 251
+R-UKRect: 4	14	711	1248	| No.of Rect: 176	|Have: 0
+G-SortRect: 4	129	709	1094  | No.of Rect: 450
+G-UKRect: 5	51	708	1222  | No.of Rect: 210	|Have: 0
